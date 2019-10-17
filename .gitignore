@@ -1,0 +1,6 @@
+*.npz
+*__pycache__
+*.pyc
+*.npy
+*.h5m
+*.msh
